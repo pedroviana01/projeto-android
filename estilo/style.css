@@ -76,7 +76,7 @@ header > h1{
 
 header > p{
     color: white;
-    font-family: var(--font-padrao);
+    font-family: var(--font-destaque);
     font-size: 1.2em;
     max-width: 500px;
     padding-left: 10px;
