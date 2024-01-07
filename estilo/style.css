@@ -60,7 +60,7 @@ header{
     background-image: linear-gradient(to bottom, var(--cor03), var(--cor06));
     min-height: 150px;
     text-align: center;
-    padding-top: 45px;
+    padding-top: 60px;
 }
  
 header > h1{
@@ -82,7 +82,7 @@ header > p{
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.712);
 }
 
