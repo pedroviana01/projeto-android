@@ -65,7 +65,7 @@ header{
  
 header > h1{
     color:white;
-    font-family: fantasy;
+    font-family: var(--font-android);
     font-size: 3em;
     font-weight: normal;
     margin-bottom: 20px;
@@ -76,7 +76,7 @@ header > h1{
 
 header > p{
     color: white;
-    font-family: var(--font-destaque);
+    font-family: var(--font-padrao);
     font-size: 1.2em;
     max-width: 500px;
     padding-left: 10px;
